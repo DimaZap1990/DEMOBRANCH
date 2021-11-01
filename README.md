@@ -1,6 +1,6 @@
 # GitDEMO
 
-![логотип](https://upload.wikimedia.org/wikipedia/commons/9/94/%D0%9B%D0%95%D0%9D%D0%A2%D0%90_%D0%BB%D0%BE%D0%B3%D0%BE.jpg)
+![логотип](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScexj3CpRLnC6yV98CZM1a217U1jI58mOAIwvpdSrPm6YWH2ju0p6iNd1v3uv-GS0KTEg&usqp=CAU)
 
 **GitHUB**- онлайн хранилище репозиториев
 
